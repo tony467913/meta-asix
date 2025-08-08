@@ -21,11 +21,6 @@ Before start: review the Yocto system requirements.
     bitbake core-image-minimal
     ```
 
-# Contributing
-Feel free to utilize the GitHub PR workflow to share your patches. The following  guidelines are recommended: [Github PR guidelines](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
-
-Layer maintainer: Gianluigi Spagnuolo <gianluigi@exein.io>
-
 
 # License and Copyright
 Copyright 2025 ASIX Electronics
