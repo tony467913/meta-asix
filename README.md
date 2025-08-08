@@ -11,7 +11,7 @@ Before start: review the Yocto system requirements.
 
 1. Install dependencies. Example for Debian/Ubuntu:
     ```bash
-    apt-get install clang llvm
+    apt-get install gawk wget git diffstat unzip texinfo gcc build-essential chrpath socat cpio python3 python3-pip python3-pexpect xz-utils debianutils iputils-ping python3-git python3-jinja2 libegl1-mesa libelf-dev libsdl1.2-dev lz4 pylint xterm python3-subunit mesa-common-dev libstdc++-12-dev libssl-dev
     ```
 2. Download the `meta-asix` layer
 3. Add the `meta-asix` layer to your `bblayers.conf` file
