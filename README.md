@@ -1,5 +1,5 @@
-# Exein Layer for Yocto
-This layer contains kernel recipes to add the ASIX Driver to an image.
+# ASIX Layer for Yocto
+This layer contains kernel recipes to add the ASIX AX88179 Driver to an image.
 
 
 > **Note:** `meta-asix` is tested on Yocto Kirkstone.
