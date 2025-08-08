@@ -18,7 +18,7 @@ Before start: review the Yocto system requirements.
 4. Add `IMAGE_INSTALL:append = " asix"` to `local.conf` file
 5. Build your image, for example run:
     ```bash
-    bitbake core-image-minimal
+    bitbake rity-bringup-image
     ```
 
 
